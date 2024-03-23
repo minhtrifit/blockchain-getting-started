@@ -60,6 +60,14 @@
 * After that, your app will deploy with address for example: **0x5FbDB2315678afecb367f032d93F642f64180aa3**
 * Remember to **save** address key
 
+## ⚙️ Config .env file
+
+Config [.env]() file in root dir with path `./front-end.env`
+
+```bash
+VITE_ACCOUNT_ADDRESS=0x5FbDB2315678afecb367f032d93F642f64180aa3
+```
+
 ## 📦 Run React app client
 
 **NOTE: Skip /front-end/ if you already inside folder**
