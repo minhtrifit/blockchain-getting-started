@@ -1,4 +1,4 @@
-# BLOCKCHAIN GETTING STARTED APP DOCUMENTATION
+# HARDHAT TEMPLATE DOCUMENTATION
 
 <img src="https://img.shields.io/github/stars/minhtrifit/blockchain-getting-started"/> ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/minhtrifit/blockchain-getting-started)
 
@@ -59,19 +59,3 @@
 
 * After that, your app will deploy with address for example: **0x5FbDB2315678afecb367f032d93F642f64180aa3**
 * Remember to **save** address key
-
-## ⚙️ Config .env file
-
-Config [.env]() file in root dir with path `./front-end.env`
-
-```bash
-VITE_ACCOUNT_ADDRESS=0x5FbDB2315678afecb367f032d93F642f64180aa3
-```
-
-## 📦 Run React app client
-
-**NOTE: Skip /front-end/ if you already inside folder**
-
-```console
-    /front-end/npm run dev
-```
